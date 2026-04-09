@@ -1,7 +1,7 @@
 # Hey, I'm Samet 👋
 
 Backend-focused software engineer based in Istanbul 🇹🇷
-Relocating to the United States in August 2025 🇺🇸
+Relocating to the United States in August 2026 🇺🇸
 
 I build full-stack applications with a focus on clean 
 architecture, real-world problem solving, and shipping 
